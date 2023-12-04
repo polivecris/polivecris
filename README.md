@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @polivecris
-- 👀 I’m interested in dark matter (dark photons and axions), and data science for environmental issues
-- 🌱 I’m currently learning methods for data science in Python
-- 📫 How to reach me polivecris@gmail.com
+- 🌠 I'm a physicist with a bachelor's degree in astrophysics and a master's degree in particle physics.
+- 🌱 I'm also a data scientist with a special interest in environmental issues and natural language processing.
+- 📫 How to reach me: polivecris@gmail.com
 
 <!---
 polivecris/polivecris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
